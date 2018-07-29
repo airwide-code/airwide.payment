@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/airwide-code/airwide.payment.client.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/airwide-code/airwide.payment.gateway.git
